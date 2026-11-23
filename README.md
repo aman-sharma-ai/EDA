@@ -37,7 +37,7 @@ This repository contains two exploratory analyses of real-world retail and resta
 ## Running Locally
 
 ```bash
-git clone https://github.com/AmanDataverse/EDA.git
+git clone https://github.com/aman-sharma-ai/EDA.git
 cd EDA
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl jupyter
 jupyter notebook
